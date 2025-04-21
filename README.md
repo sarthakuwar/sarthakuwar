@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **kuwarsarthak711@gmail.com**
 
-- ⚡ Fun fact ** Always debugging the Code!!**
+- ⚡ Fun fact Always debugging the Code!!
 
 
 
