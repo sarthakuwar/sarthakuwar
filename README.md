@@ -1,14 +1,27 @@
-<h1 align="center">Hi 👋, I'm Sarthak kuwar</h1>
-<h3 align="center">A passionate developer and a firm learner</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+[![MasterHead](https://i.imgur.com/1ZvVkDc.gif)]()
 
-- 📫 How to reach me **kuwarsarthak711@gmail.com**
+I’m Sarthak, and this is where I share my thoughts, ideas, and projects; some polished, some still in progress.
 
-- ⚡ Fun fact Always debugging the Code!!
+I enjoy solving problems, exploring complex challenges, and diving into research that helps me understand things at a deeper level. I work best with coffee or an energy drink nearby and like building things that are both functional and interesting.
 
+Outside of coding, I enjoy reading, playing video games, watching MMA, and going for rides to clear my head.
 
+I'm mostly available on  kuwarsarthak711@gmail.com
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>   </p>
+<div align="center">
+<!-- <img align="center" width="400" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif" alt="coding"> -->
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthakuwar&show_icons=true&locale=en&layout=compact" alt="sarthakuwar" /></p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakuwar&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakuwar" /> </p> -->
+
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthakuwar" alt="sarthakuwar" /></a> </p> -->
+
+<h2>Survivor Count</h2>
+
+![Visitor Count](https://count.getloli.com/get/@sarthakuwar?theme=booru-lewd)
+
+<div display = "flex">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=sarthakuwar&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakuwar&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+</div>
