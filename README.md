@@ -4,7 +4,7 @@ I’m Sarthak, and this is where I share my thoughts, ideas, and projects; some 
 
 I enjoy solving problems, exploring complex challenges, and diving into research that helps me understand things at a deeper level. I work best with coffee or an energy drink nearby and like building things that are both functional and interesting.
 
-Outside of coding, I enjoy reading, playing video games, watching MMA, and going for rides to clear my head.
+Outside of coding, I enjoy reading, playing video games, watching MMA, and going for walks to clear my head.
 
 I'm mostly available on  kuwarsarthak711@gmail.com
 
